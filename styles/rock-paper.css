@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(25,25,25);
+  color: white;
+  font-family: Arial;
+  
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+.move-icon {
+  height: 50px;
+}
+.move-button {
+  background-color: transparent;
+  margin-right: 10px;
+}
+.move {
+  padding: 10px;
+}
